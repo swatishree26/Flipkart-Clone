@@ -1,5 +1,5 @@
 # flipkart-clone
-flipkart-clone Backend web implementation
+flipkart-clone Backend implementation
 
 ## Services implemented
 * [Register](#register)
